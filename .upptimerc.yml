@@ -17,8 +17,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /coincord-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://res.cloudinary.com/ddqbmplno/image/upload/v1672615466/main_logo_hakbca.svg
+  name: Status
   introTitle: "**Coincord** | The future of DeFi Finance"
   introMessage: Coincord is a blockchain-focused fintech product that aims to make the average crypto token Spendable
   navbar:
