@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "time": 212,
+    "timeDay": 212,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Coincord Mobile",
+    "url": "https://api.mobile.coincord.co/graphql",
+    "icon": "https://icons.duckduckgo.com/ip3/api.mobile.coincord.co.ico",
+    "slug": "coincord-mobile",
+    "status": "down",
+    "uptime": "42.20%",
+    "uptimeDay": "42.20%",
+    "uptimeWeek": "42.20%",
+    "uptimeMonth": "42.20%",
+    "uptimeYear": "42.20%",
+    "time": 456,
+    "timeDay": 456,
+    "timeWeek": 456,
+    "timeMonth": 456,
+    "timeYear": 456,
+    "dailyMinutesDown": {
+      "2023-01-01": 0
+    }
   }
 ]
