@@ -2,7 +2,7 @@
   {
     "name": "Coincord Website",
     "url": "https://www.coincord.co",
-    "icon": "https://icons.duckduckgo.com/ip3/www.coincord.co.ico",
+    "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 176,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "time": 174,
+    "timeDay": 174,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
     "name": "Coincord Mobile API",
     "url": "https://api.mobile.coincord.co/graphql",
-    "icon": "https://icons.duckduckgo.com/ip3/api.mobile.coincord.co.ico",
+    "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-mobile-api",
     "status": "down",
     "uptime": "0.01%",
@@ -28,13 +28,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 336,
-    "timeDay": 336,
-    "timeWeek": 336,
-    "timeMonth": 336,
-    "timeYear": 336,
+    "time": 346,
+    "timeDay": 346,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2023-01-02": 31,
+      "2023-01-02": 50,
       "2023-01-01": 45
     }
   }
