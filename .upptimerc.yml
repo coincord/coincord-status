@@ -9,6 +9,10 @@ sites:
   - name: Coincord Mobile API
     url: https://api.mobile.coincord.co/graphql
     icon: https://coincord.co/images/favicon.ico
+    
+assignees:
+  - cuddimatic
+  - Mozartted
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
