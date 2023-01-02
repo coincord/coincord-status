@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://https://www.coincord.co)
+[**Visit our status website →**](https://coincord.github.io/coincord-status/)
 
 ## 📄 License
 
