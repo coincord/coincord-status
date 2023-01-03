@@ -15,7 +15,7 @@ sites:
     icon: https://coincord.co/images/favicon.ico
     headers:
       - "Content-Type: application/json"
-    body: '{"query": "query loadUser{ load_user(username:$SECRET_USER){username}}"}'
+    body: "{\"query\":\"query{load_user(username:\\\"tbekz\\\"){username}}\"}"
     
 assignees:
   - cuddimatic
