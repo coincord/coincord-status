@@ -11,7 +11,9 @@ sites:
     icon: https://coincord.co/images/favicon.ico
   - name: Coincord Mobile API
     url: $SECRET_MOBILE
+    method: POST
     icon: https://coincord.co/images/favicon.ico
+    body: 'query loadUser{ load_user(username:"tbekz"){username}}'
     
 assignees:
   - cuddimatic
