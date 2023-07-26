@@ -6,17 +6,17 @@
     "slug": "coincord-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 158,
-    "timeWeek": 155,
-    "timeMonth": 138,
+    "timeDay": 133,
+    "timeWeek": 145,
+    "timeMonth": 136,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 5
     }
   },
   {
@@ -44,7 +44,7 @@
     "slug": "coincord-mobile-api",
     "status": "up",
     "uptime": "86.00%",
-    "uptimeDay": "12.21%",
+    "uptimeDay": "12.55%",
     "uptimeWeek": "84.29%",
     "uptimeMonth": "94.41%",
     "uptimeYear": "86.00%",
