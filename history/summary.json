@@ -6,16 +6,18 @@
     "slug": "coincord-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
+    "time": 162,
     "timeDay": 93,
     "timeWeek": 86,
     "timeMonth": 124,
-    "timeYear": 163,
-    "dailyMinutesDown": {}
+    "timeYear": 162,
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "Coincord Documentation",
@@ -41,11 +43,11 @@
     "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-mobile-api",
     "status": "up",
-    "uptime": "89.12%",
+    "uptime": "89.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.28%",
     "uptimeMonth": "98.65%",
-    "uptimeYear": "89.12%",
+    "uptimeYear": "89.13%",
     "time": 1091,
     "timeDay": 891,
     "timeWeek": 1383,
