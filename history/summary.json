@@ -42,14 +42,14 @@
     "url": "$SECRET_MOBILE",
     "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-mobile-api",
-    "status": "up",
-    "uptime": "89.71%",
-    "uptimeDay": "96.89%",
+    "status": "down",
+    "uptime": "89.72%",
+    "uptimeDay": "96.88%",
     "uptimeWeek": "91.56%",
     "uptimeMonth": "96.85%",
-    "uptimeYear": "89.71%",
+    "uptimeYear": "89.72%",
     "time": 1154,
-    "timeDay": 3036,
+    "timeDay": 3190,
     "timeWeek": 1848,
     "timeMonth": 1689,
     "timeYear": 1154,
@@ -162,7 +162,7 @@
       "2023-01-13": 955,
       "2023-01-09": 76,
       "2023-01-08": 115,
-      "2023-01-06": 49
+      "2023-01-06": 29
     }
   }
 ]
