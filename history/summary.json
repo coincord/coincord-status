@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 122,
+    "time": 159,
+    "timeDay": 94,
     "timeWeek": 110,
     "timeMonth": 109,
-    "timeYear": 160,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2023-10-03": 19
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 63,
-    "timeWeek": 60,
-    "timeMonth": 59,
+    "timeDay": 51,
+    "timeWeek": 62,
+    "timeMonth": 58,
     "timeYear": 79,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,18 @@
     "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-mobile-api",
     "status": "up",
-    "uptime": "90.24%",
-    "uptimeDay": "89.15%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "90.24%",
-    "time": 1179,
-    "timeDay": 2115,
-    "timeWeek": 1675,
-    "timeMonth": 1645,
-    "timeYear": 1179,
+    "uptime": "90.14%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "90.14%",
+    "time": 1178,
+    "timeDay": 2709,
+    "timeWeek": 1544,
+    "timeMonth": 1633,
+    "timeYear": 1178,
     "dailyMinutesDown": {
-      "2023-10-23": 64,
+      "2023-10-23": 59,
       "2023-10-22": 108,
       "2023-10-19": 184,
       "2023-10-18": 1,
@@ -161,7 +161,8 @@
       "2023-01-19": 78,
       "2023-01-18": 38,
       "2023-01-17": 68,
-      "2023-01-15": 193
+      "2023-01-15": 341,
+      "2023-01-14": 352
     }
   }
 ]
