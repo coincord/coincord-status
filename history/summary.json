@@ -4,9 +4,9 @@
     "url": "https://www.coincord.co",
     "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 116,
     "timeYear": 159,
     "dailyMinutesDown": {
+      "2023-10-28": 0,
       "2023-10-03": 19
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://developers.coincord.co",
     "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 62,
     "timeMonth": 63,
     "timeYear": 78,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-28": 0
+    }
   },
   {
     "name": "Coincord Mobile API",
@@ -43,18 +46,18 @@
     "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-mobile-api",
     "status": "down",
-    "uptime": "90.66%",
-    "uptimeDay": "92.40%",
-    "uptimeWeek": "92.84%",
-    "uptimeMonth": "94.90%",
-    "uptimeYear": "90.66%",
+    "uptime": "90.65%",
+    "uptimeDay": "89.15%",
+    "uptimeWeek": "92.37%",
+    "uptimeMonth": "94.79%",
+    "uptimeYear": "90.65%",
     "time": 1298,
-    "timeDay": 724,
-    "timeWeek": 2935,
+    "timeDay": 739,
+    "timeWeek": 2984,
     "timeMonth": 2102,
     "timeYear": 1298,
     "dailyMinutesDown": {
-      "2023-10-28": 109,
+      "2023-10-28": 156,
       "2023-10-27": 37,
       "2023-10-26": 99,
       "2023-10-24": 310,
