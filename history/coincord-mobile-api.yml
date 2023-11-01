@@ -1,7 +1,7 @@
 url: $SECRET_MOBILE
-status: up
-code: 200
-responseTime: 1620
-lastUpdated: 2023-11-01T06:59:54.948Z
+status: down
+code: 502
+responseTime: 161
+lastUpdated: 2023-11-01T11:41:16.007Z
 startTime: 2023-01-01T23:14:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
