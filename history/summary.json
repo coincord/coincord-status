@@ -26,18 +26,19 @@
     "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-documentation",
     "status": "down",
-    "uptime": "98.87%",
+    "uptime": "98.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.25%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "98.87%",
+    "uptimeWeek": "50.54%",
+    "uptimeMonth": "88.62%",
+    "uptimeYear": "98.85%",
     "time": 78,
     "timeDay": 0,
     "timeWeek": 56,
     "timeMonth": 64,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2023-10-31": 1413,
+      "2023-11-01": 45,
+      "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 621
@@ -49,18 +50,17 @@
     "icon": "https://coincord.co/images/favicon.ico",
     "slug": "coincord-mobile-api",
     "status": "up",
-    "uptime": "90.76%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "93.66%",
-    "uptimeMonth": "94.54%",
-    "uptimeYear": "90.76%",
+    "uptime": "90.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.73%",
+    "uptimeMonth": "94.55%",
+    "uptimeYear": "90.68%",
     "time": 1293,
     "timeDay": 304,
     "timeWeek": 2969,
     "timeMonth": 2064,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2023-10-31": 6,
       "2023-10-28": 497,
       "2023-10-27": 37,
       "2023-10-26": 99,
@@ -164,7 +164,8 @@
       "2023-02-10": 82,
       "2023-02-07": 1316,
       "2023-02-06": 347,
-      "2023-01-31": 18
+      "2023-01-31": 157,
+      "2023-01-30": 240
     }
   }
 ]
